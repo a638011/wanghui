@@ -14,7 +14,7 @@ public class java {
 			
 			
 			
-			//wanghi
+			//wanghidd
 			Map<String, String> sortParams = new HashMap<String, String>();
 			sortParams.put("version", "1.1");
 			sortParams.put("lang", "zh-cn");
